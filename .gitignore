@@ -1,4 +1,10 @@
 
+###> eclipse settings
+.settings/
+.buildpath
+.project
+###< eclipse settings
+
 ###> symfony/framework-bundle ###
 .env
 /public/bundles/
